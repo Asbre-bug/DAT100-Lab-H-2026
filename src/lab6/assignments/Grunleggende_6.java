@@ -2,7 +2,7 @@ package lab6.assignments;
 
 import java.util.Arrays;
 
-public class Assignments {
+public class Grunleggende_6 {
     public static double[][] obs = {
             {1.4,1.7,1.9,2.0},
             {5.4,7.8,9.8,7.9,3.0},
